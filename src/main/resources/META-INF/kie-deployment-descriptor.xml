@@ -8,7 +8,20 @@
     <marshalling-strategies/>
     <event-listeners/>
     <task-event-listeners/>
-    <globals/>
+    <globals>
+        <global>
+            <resolver>mvel</resolver>
+            <identifier>"3201"</identifier>
+            <parameters/>
+            <name>dependencia</name>
+        </global>
+        <global>
+            <resolver>mvel</resolver>
+            <identifier>"57"</identifier>
+            <parameters/>
+            <name>serie</name>
+        </global>
+    </globals>
     <work-item-handlers>
         <work-item-handler>
             <resolver>mvel</resolver>

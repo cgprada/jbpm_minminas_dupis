@@ -11,6 +11,12 @@
     <globals>
         <global>
             <resolver>mvel</resolver>
+            <identifier>15m</identifier>
+            <parameters/>
+            <name>tiempoRecurso</name>
+        </global>
+        <global>
+            <resolver>mvel</resolver>
             <identifier>"3201"</identifier>
             <parameters/>
             <name>dependencia</name>

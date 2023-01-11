@@ -13,6 +13,12 @@
             <resolver>mvel</resolver>
             <identifier>30m</identifier>
             <parameters/>
+            <name>tiempoVerificacionDocumentos</name>
+        </global>
+        <global>
+            <resolver>mvel</resolver>
+            <identifier>30m</identifier>
+            <parameters/>
             <name>tiempoActualizacionDocumentos</name>
         </global>
         <global>

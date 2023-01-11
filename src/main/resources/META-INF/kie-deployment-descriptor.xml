@@ -11,6 +11,12 @@
     <globals>
         <global>
             <resolver>mvel</resolver>
+            <identifier>30m</identifier>
+            <parameters/>
+            <name>tiempoActualizacionDocumentos</name>
+        </global>
+        <global>
+            <resolver>mvel</resolver>
             <identifier>15m</identifier>
             <parameters/>
             <name>tiempoRecurso</name>

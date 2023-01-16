@@ -35,6 +35,12 @@
         </global>
         <global>
             <resolver>mvel</resolver>
+            <identifier>"carlos.prada@linktic.com"</identifier>
+            <parameters/>
+            <name>notificacionSolicitudInterna</name>
+        </global>
+        <global>
+            <resolver>mvel</resolver>
             <identifier>"57"</identifier>
             <parameters/>
             <name>serie</name>
